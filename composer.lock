@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c30fd56fe91ec9aa74c5ff3f821382e0",
+    "content-hash": "64110bdc0ffd05ecc822a13a27cfa405",
     "packages": [
         {
             "name": "zorzi23/object_flow",

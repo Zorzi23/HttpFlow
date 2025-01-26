@@ -1,7 +1,7 @@
 <?php return array(
     'root' => array(
         'name' => 'zorzi23/http_flow',
-        'pretty_version' => '1.0.0+no-version-set',
+        'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => null,
         'type' => 'library',
@@ -11,7 +11,7 @@
     ),
     'versions' => array(
         'zorzi23/http_flow' => array(
-            'pretty_version' => '1.0.0+no-version-set',
+            'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => null,
             'type' => 'library',
